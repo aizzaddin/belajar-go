@@ -44,13 +44,20 @@ nama = "Iza" // variable nama bernilai Iza
 ```
 _Lalu bagaimana kalau kita ingin membuat sebuah variable bernilai tetap?_
 
-Nah, untuk membuat sebuah variable bernilai tetap, kita dapat menggunakan keyword `cons`.
+Nah, untuk membuat sebuah variable bernilai tetap, kita dapat menggunakan keyword `const`.
 ```go
-cons umur = 17
+const umur = 17
+```
+Dengan menggunakan keyword `const`, kita tidak dapat meng-_assign_ atau me-_replace_ value dari variable umur dengan value lainnya.
+```go
+const umur = 17
+umur = 20 // error
 ```
 ## Aturan Membuat Variable
 Dalam membuat variable, ada beberapa aturan yang perlu kita perhatikan :
 - Nama sebuah variable, dapat mengandung huruf, angka dan garis bawah (_).  
 - Setiap nama variable merupakan **Case Sensitive**. Artinya, variable NAma ≠ namA
 - Apabila nama variable memiliki nama yang panjang, biasanya nama variable menggunakan CamelCase
+- Apabila kita membuat sebuah variable namun variable tersebut tidak digunaka dimana-mana, maka variable tersebut akan memunculkan `error`
+![](../assets/variable-not-used.png)
 

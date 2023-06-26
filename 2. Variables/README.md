@@ -59,5 +59,8 @@ Dalam membuat variable, ada beberapa aturan yang perlu kita perhatikan :
 - Setiap nama variable merupakan **Case Sensitive**. Artinya, variable NAma ≠ namA
 - Apabila nama variable memiliki nama yang panjang, biasanya nama variable menggunakan CamelCase
 - Apabila kita membuat sebuah variable namun variable tersebut tidak digunaka dimana-mana, maka variable tersebut akan memunculkan `error`
+
 ![](../assets/variable-not-used.png)
 
+
+### [➡️ Lanjut ke Pembahasan String](./1.%20String.md)

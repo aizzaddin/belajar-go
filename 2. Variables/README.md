@@ -62,5 +62,5 @@ Dalam membuat variable, ada beberapa aturan yang perlu kita perhatikan :
 
 ![](../assets/variable-not-used.png)
 
-
-### [➡️ Lanjut ke Pembahasan String](./1.%20String.md)
+---
+[➡️ Lanjut ke Pembahasan String](./1.%20String.md)

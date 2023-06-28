@@ -1,6 +1,8 @@
 # Belajar Golang
 ![Golang](https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62217e885f52b860da9f00cc_Apa%20Itu%20Golang%3F%20Apa%20Saja%20Fungsi%20Dan%20Keunggulannya%20-%20Binar%20Academy.jpeg)
 
+### [➡️ Table of Contents](/Table%20of%20Contents.md)
+
 ## Intro
 Go merupakan bahasa pemrograman yang dibuat oleh para engineer Google. Pada awalnya, Go dibuat sebagai pengganti dari bahasa C dan C++. Saat ini, banyak aplikasi yang dibuat menggunakan Go.
 
@@ -17,3 +19,6 @@ Selain menggunakan file instalasi, untuk kamu yang menggunakan MacOS, bisa mengi
 IDE yang aku sarankan untuk pembelajaran kali ini adalah VSCode. Kenapa VSCode? Selain karena gratis, VSCode memiliki banyak ekstensi yang dapat kita gunakan. Nah, salah satu ekstensi **wajib** yang perlu ada di VSCode kamu adalah [Go](https://marketplace.visualstudio.com/items?itemName=golang.go). 
 ![](/assets/go-extention.png)
 Ekstensi ini bakal ngebantu kamu selama nge-dev dengan Go kedepannya.
+
+---
+[➡️ Lanjut ke Hello World!](/1.%20Hello%20World/README.md)

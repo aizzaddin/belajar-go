@@ -51,3 +51,6 @@ Ketika perintah tersebut selesai dijalankan, maka akan terbentuk sebuah file bin
 
 Selanjutnya kita dapat langsung menjalankan program tersebut seperti gambar dibawah ini.
 ![](../assets/execute-binnary.png)
+
+---
+[➡️ Lanjut ke Variables](../2.%20Variables/README.md)
